@@ -6,7 +6,7 @@ O projeto foi desenvolvido pelos alunos de Engenharia de Computação:
 
 |Nome| gitlab user|
 |---|---|
-|Jeferson Lima| @jefersonlima|
+|Jeferson Lima| [@jefersonlima](https://gitlab.com/jeferson.lima)|
 
 # Documentação
 
