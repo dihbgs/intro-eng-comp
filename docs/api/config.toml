@@ -1,0 +1,11 @@
+baseURL = "https://cursoseaulas.gitlab.io/ie21cp20192"
+languageCode = "en-us"
+title = "Site do Projeto"
+theme = "learn"
+
+
+pluralizeListTitles = false
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "blue"
