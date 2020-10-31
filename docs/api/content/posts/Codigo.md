@@ -1,5 +1,5 @@
 ---
-title: "Código"
+title: "05 - Código"
 date: 2020-10-30T04:00:00+03:00
 content: "Código do projeto"
 draft: false
@@ -47,75 +47,6 @@ void loop()
   opt = ' ';
   key = ' ';
   
-  lcd.clear();
-  lcd.print("A: Soma");
-  lcd.setCursor(0,1);
-  lcd.print("B: Subtrai");
-  delay(1250);
-  
-  lcd.clear();
-  lcd.print("C: Reseta");
-  lcd.setCursor(0,1);
-  lcd.print("D: Deleta char");
-  delay(1250);
-  
-  lcd.clear();
-  lcd.print("*: Ponto");
-  lcd.setCursor(0,1);
-  lcd.print("#: Enter");
-  delay(1250);
-  
-  lcd.clear();
-  lcd.print("Insira a opcao: ");
-  lcd.setCursor(0,1);
-  getOption();
-  lcd.print(opt);
-  delay(250);
-  
-  lcd.clear();
-  switch(opt)
-  {
-    case 'A':
-      lcd.print("Somar: ");
-      lcd.setCursor(0,1);
-      getValue();
-      total += text.toFloat();
-      break;
-    case 'B':
-      lcd.print("Subtrair: ");
-      lcd.setCursor(0,1);
-      getValue();
-      total -= text.toFloat();
-      if(total < 0)
-        total = 0;
-      break;
-    default:
-      lcd.print("Confirme:");
-      lcd.setCursor(0,1);
-      lcd.print("Zerar valor?");
-      getOption();
-      
-      if(opt == 'C')
-      {
-        total = 0;
-        lcd.clear();
-        lcd.print("Valor resetado");
-      }
-      break;
-  }
-  delay(1000);
-  
-  lcd.clear();
-  lcd.print("Valor total:");
-  lcd.setCursor(0,1);
-  lcd.print(total);
-  delay(2500);
-}
-
-
-void menu()
-{
-  opt = ' ';
   lcd.clear();
   lcd.print("A: Soma");
   lcd.setCursor(0,1);
