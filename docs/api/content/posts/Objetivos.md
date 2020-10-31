@@ -16,7 +16,7 @@ O porquinho aclopa um teclado e um display lcd. Onde são desempenhadas as segui
 	* #: Enter
 	* Insira a opcao:
 	
-* Assim através do teclado será inserido a opção desejada, seguida do valor que irá incluir ou retirar do cofrinho.
+* Assim, através do teclado será inserido a opção desejada, seguida do valor que irá incluir ou retirar do cofrinho.
 	
 * Após o feito o display mostrará o total presente no objeto.
 
