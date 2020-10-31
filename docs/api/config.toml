@@ -58,8 +58,8 @@ paginate = 5
     missingBackButtonLabel  =  " Voltar para a pagina inicial "
 
     [languages.en.params.logo]
-      logoText = ""
-      logoHomeLink = "/"
+      logoText = "aa"
+      logoHomeLink = "/ie21cp20201/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
