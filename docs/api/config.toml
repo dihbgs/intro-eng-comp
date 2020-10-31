@@ -24,7 +24,7 @@ paginate = 5
   centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
-  favicon = "/docs/api/icon.png"
+  #favicon = "/docs/api/icon.png"
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
@@ -40,23 +40,22 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  # creator = ""
+  # site = ""
 
 [languages]
   [languages.pt]
-    languageName = ""
-    title = ""
-    subtitle = ""
-    owner = ""
-    keywords = ""
-    copyright = ""
+    #languageName = ""
+    #title = ""
+    #subtitle = ""
+    #owner = ""
+    #keywords = ""
+    #copyright = ""
     menuMore  =  " Mostrar mais "
     readMore  =  " Leia mais "
     readOtherPosts  =  " Ler outras postagens "
     missingContentMessage  =  " Pagina nao encontrada "
     missingBackButtonLabel  =  " Voltar para a pagina inicial "
-    logoHomeLink = "/ie21cp20201/"
 
     [languages.pt.params.logo]
       logoText = "Projeto final da disciplina de introducao a engenharia"
