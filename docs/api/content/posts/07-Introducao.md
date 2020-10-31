@@ -1,7 +1,7 @@
 ---
 title: "Introdução"
 content: ""
-date: ""
+date: 2020-10-30T22:36:12+03:00
 draft: false
 
 ---
@@ -9,4 +9,4 @@ draft: false
 * O seguinte projeto consiste em um cofrinho de moedas e cédulas. Este utiliza um teclado eletrônico como meio de contabilizar o dinheiro inserido.
 * O objeto é semelhante ao porco do jogo "Minecraft" apresentado abaixo.
 
-![Imagem de Minecraft retirada do Google](https://i.pinimg.com/originals/66/a4/12/66a412966bc97eaceb8d9839704274bc.png)
+![Imagem de Minecraft retirada do Google](pig-example.png)
