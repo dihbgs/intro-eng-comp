@@ -1,5 +1,5 @@
 baseurl = "https://dihbgs.gitlab.io/ie21cp20201/"
-languageCode = "en-us"
+languageCode = "pt-br"
 theme = "terminal"
 paginate = 5
 
@@ -24,7 +24,7 @@ paginate = 5
   centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
-  favicon = "/api/icon.png"
+  favicon = "../icon.png"
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
@@ -61,6 +61,6 @@ paginate = 5
       logoText = "Projeto final da disciplina de introducao a engenharia"
       logoHomeLink = "/ie21cp20201/"
 
-    [languages.en.params.logo]
-      logoText = "Projeto final da disciplina de introducao a engenharia"
-      logoHomeLink = "/ie21cp20201/"
+#    [languages.en.params.logo]
+#      logoText = "Projeto final da disciplina de introducao a engenharia"
+#      logoHomeLink = "/ie21cp20201/"
