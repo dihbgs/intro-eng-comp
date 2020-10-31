@@ -1,6 +1,6 @@
 ---
 title: "Código"
-content: "Codigo do projeto"
+content: ""
 date: 2020-10-30T22:36:12+03:00
 draft: false
 
