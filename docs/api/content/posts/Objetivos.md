@@ -1,3 +1,5 @@
+---
+title: "Objetivo"
 content: ""
 date: ""
 draft: false
@@ -5,17 +7,17 @@ draft: false
 
 O porquinho aclopa um teclado e um display lcd. Onde são desempenhadas as seguintes funções:
 
-	* Inicialmente podemos visualizar a seguinte mensagem no display: 
-		* A: Soma 
-		* B: Subtrai
-		* C: Reseta
-		* D: Deleta char
-		* *: Ponto
-		* #: Enter
-		* Insira a opcao:
+* Inicialmente podemos visualizar a seguinte mensagem no display: 
+	* A: Soma 
+	* B: Subtrai
+	* C: Reseta
+	* D: Deleta char
+	* *: Ponto
+	* #: Enter
+	* Insira a opcao:
 	
-	* Assim através do teclado será inserido a opção desejada, seguida do valor que irá incluir ou retirar do cofrinho.
+* Assim através do teclado será inserido a opção desejada, seguida do valor que irá incluir ou retirar do cofrinho.
 	
-	* Após o feito o display mostrará o total presente no objeto.
+* Após o feito o display mostrará o total presente no objeto.
 
 Ou seja, o objetivo deste projeto é realizar as funções citadas com exito.
