@@ -1,9 +1,11 @@
 ---
 title: "03 - Materiais"
 date: 2020-10-30T06:00:00+03:00
+content: "Lista de materiais utilizados"
 draft: false
 
 ---
+
 
 Componente | Quantidade
 ---------- | ----------
