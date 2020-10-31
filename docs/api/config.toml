@@ -63,6 +63,6 @@ paginate = 5
       logoText = "Projeto final da disciplina de introducao a engenharia"
       logoHomeLink = "/ie21cp20201/"
 
-#    [languages.en.params.logo]
-#      logoText = "Projeto final da disciplina de introducao a engenharia"
-#      logoHomeLink = "/ie21cp20201/"
+    [languages.en.params.logo]
+      logoText = "Projeto final da disciplina de introducao a engenharia"
+      logoHomeLink = "/ie21cp20201/"
