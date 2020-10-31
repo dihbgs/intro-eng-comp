@@ -1,5 +1,5 @@
 baseurl = "https://dihbgs.gitlab.io/ie21cp20201/"
-languageCode = "pt-br"
+languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
