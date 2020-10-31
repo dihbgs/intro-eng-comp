@@ -1,9 +1,11 @@
 baseurl = "https://dihbgs.gitlab.io/ie21cp20201/"
-languageCode = "en-us"
+languageCode = "pt-br"
 theme = "terminal"
 paginate = 5
 
 [params]
+  defaultContentLanguage = "pt"
+
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
