@@ -7,7 +7,7 @@ draft: false
 
 O porquinho aclopa um teclado e um display lcd. Onde são desempenhadas as seguintes funções:
 
-* Inicialmente podemos visualizar a seguinte mensagem no display: 
+* Inicialmente podemos visualizar o menu através do display:  
 	* A: Soma 
 	* B: Subtrai
 	* C: Reseta
