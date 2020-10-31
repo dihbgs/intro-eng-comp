@@ -1,6 +1,6 @@
 ---
 title: "Introdução"
-content: "Cofrinho com teclado eletrônico."
+content: ""
 date: ""
 draft: false
 
