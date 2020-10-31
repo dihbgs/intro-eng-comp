@@ -1,6 +1,6 @@
 baseurl = "https://dihbgs.gitlab.io/ie21cp20201/"
 languageCode = "en-us"
-theme = "Projeto final de Introdução a Engenharia"
+theme = "terminal"
 paginate = 5
 
 [params]
