@@ -3,7 +3,6 @@ title: "05 - Código"
 date: 2020-10-30T04:00:00+03:00
 content: "Código do projeto"
 draft: false
-
 ---
 
 Código do projeto:
