@@ -1,8 +1,9 @@
 ---
 title: "Objetivo"
 content: ""
-date: ""
+date: 2020-10-30T22:36:12+03:00
 draft: false
+
 ---
 
 O porquinho aclopa um teclado e um display lcd. Onde são desempenhadas as seguintes funções:
