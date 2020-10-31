@@ -6,5 +6,6 @@ draft: false
 ---
 
 ### O seguinte projeto consiste em um cofrinho de moedas e cédulas. Este utiliza um teclado eletrônico como meio de contabilizar o dinheiro inserido.
+##### O objeto é semelhante ao porco do jogo "Minecraft".
 
-![Aparência final esperada para o projeto (imagem retirada do Google)]{https://blogdebrinquedo.com.br/wp-content/uploads/2020/02/20200227cofre-minecraft-when-pigs-fly-money-box-01.jpg}
+!(Imagem de Minecraft retirada do Google){https://i.pinimg.com/originals/66/a4/12/66a412966bc97eaceb8d9839704274bc.png}
