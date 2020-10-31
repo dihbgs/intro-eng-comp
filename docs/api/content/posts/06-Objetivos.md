@@ -6,7 +6,7 @@ draft: false
 
 ---
 
-O porquinho aclopa um teclado e um display lcd. Onde são desempenhadas as seguintes funções:
+O porquinho acopla um teclado e um display lcd. Onde são desempenhadas as seguintes funções:
 
 * Inicialmente podemos visualizar o menu através do display:  
 	* A: Soma 
