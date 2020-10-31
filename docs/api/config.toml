@@ -1,11 +1,9 @@
 baseurl = "https://dihbgs.gitlab.io/ie21cp20201/"
-languageCode = "pt-br"
+languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
 [params]
-  defaultContentLanguage = "pt"
-
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
@@ -26,7 +24,7 @@ paginate = 5
   centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
-  favicon = "/ie21cp20201/docs/api/icon.png"
+  # favicon = "/ie21cp20201/docs/api/icon.png"
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
