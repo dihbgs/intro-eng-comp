@@ -14,7 +14,7 @@ O porquinho aclopa um teclado e um display lcd. Onde são desempenhadas as segui
 	* D: Deleta char
 	* *: Ponto
 	* #: Enter
-	* Insira a opcao:
+	* Insira a opção:
 	
 * Assim, através do teclado será inserido a opção desejada, seguida do valor que irá incluir ou retirar do cofrinho.
 	
