@@ -1,7 +1,7 @@
 baseurl = "https://dihbgs.gitlab.io/ie21cp20201/"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 5
+paginate = 7
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -48,7 +48,7 @@ paginate = 5
     title = "Projeto"
     subtitle = "Introdução a Engenharia"
     menuMore  =  " Mostrar mais "
-    readMore  =  " Leia mais "
+    readMore  =  ""
     readOtherPosts  =  " Ler outras postagens "
     missingContentMessage  =  " Pagina nao encontrada "
     missingBackButtonLabel  =  " Voltar para a pagina inicial "
