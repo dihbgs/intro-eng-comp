@@ -44,7 +44,7 @@ paginate = 5
   # site = ""
 
 [languages]
-  [languages.pt]
+  [languages.en]
     title = "Projeto"
     subtitle = "Introdução a Engenharia"
     menuMore  =  " Mostrar mais "
@@ -57,10 +57,6 @@ paginate = 5
     #owner = ""
     #keywords = ""
     #copyright = ""
-
-    [languages.pt.params.logo]
-      logoText = "Projeto final da disciplina de introducao a engenharia"
-      logoHomeLink = "/ie21cp20201/"
 
     [languages.en.params.logo]
       logoText = "Projeto final da disciplina de introducao a engenharia"
