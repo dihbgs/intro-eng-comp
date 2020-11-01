@@ -6,6 +6,7 @@ draft: false
 
 ---
 
+A seguir encontra-se a lista de materiais utilizados para a elaboração deste projeto:
 
 Componente | Quantidade
 ---------- | ----------
