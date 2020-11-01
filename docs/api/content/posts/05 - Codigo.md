@@ -5,10 +5,6 @@ description: "Código do projeto"
 draft: false
 ---
 
-{{< expand testandinho >}}
-abacate
-{{< /expand >}}
-
 Código do projeto:
   
 ```Cpp
