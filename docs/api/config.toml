@@ -45,17 +45,18 @@ paginate = 5
 
 [languages]
   [languages.pt]
-    #languageName = ""
-    #title = ""
-    #subtitle = ""
-    #owner = ""
-    #keywords = ""
-    #copyright = ""
+    title = "Projeto"
+    subtitle = "Introdução a Engenharia"
     menuMore  =  " Mostrar mais "
     readMore  =  " Leia mais "
     readOtherPosts  =  " Ler outras postagens "
     missingContentMessage  =  " Pagina nao encontrada "
     missingBackButtonLabel  =  " Voltar para a pagina inicial "
+    
+    #languageName = ""
+    #owner = ""
+    #keywords = ""
+    #copyright = ""
 
     [languages.pt.params.logo]
       logoText = "Projeto final da disciplina de introducao a engenharia"
