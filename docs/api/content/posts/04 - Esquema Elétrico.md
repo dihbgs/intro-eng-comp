@@ -6,4 +6,4 @@ draft: false
 
 ---
 
-![Esquema elétrico](docs/api/content/posts/esquema_elétrico.jpg)
+![Esquema elétrico](../esquema_eletrico.jpg)
