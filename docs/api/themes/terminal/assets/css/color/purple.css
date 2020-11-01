@@ -7,9 +7,9 @@
 @import '../variables.css';
 
 :root {
-  --accent: rgba(68, 22, 235, 0.781);
-  --background: color-mod(var(--accent) blend(rgb(209, 212, 255) 98%));
-  --color: rgb(0, 0, 0);
-  --border-color: rgba(0, 0, 0, 0.1);
+  --accent: rgba(88, 45, 241, 0.938);
+  --background: color-mod(var(--accent) blend(rgb(236, 237, 250) 98%));
+  --color: rgb(206, 206, 206);
+  --border-color: rgb(206, 206, 206);
 }
 
