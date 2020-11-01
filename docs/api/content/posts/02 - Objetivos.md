@@ -1,7 +1,7 @@
 ---
 title: "02 - Objetivo"
 description: "Espectativas finais do projeto"
-date: 2020-10-30T07:00:00+03:00
+date: 2020-10-24T07:00:00+03:00
 draft: false
 
 ---
