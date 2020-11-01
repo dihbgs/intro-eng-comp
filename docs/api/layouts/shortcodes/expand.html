@@ -1,17 +1,9 @@
-{{ $_hugo_config := `{ "version": 1 }` }}
-<div class="expand">
-    <div class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
-        <i style="font-size:x-small;" class="fas fa-chevron-right"></i>
-        <span>
-        {{$expandMessage := T "Expand-title"}}
-    	{{ if .IsNamedParams }}
-    	{{.Get "default" | default $expandMessage}}
-    	{{else}}
-    	{{.Get 0 | default $expandMessage}}
-    	{{end}}
-    	</span>
+<span class="expand">
+    <span class="expand-label" style="cursor: pointer;" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-ban' : 'fas fa-bars';});});">
+        {{.Get 0}}
+        <i class="fas fa-bars"></i>
+    </span>
+    <div class="expand-content" style="display: none; margin: 10px 0px 10px">
+         {{.Inner}}
     </div>
-    <div class="expand-content" style="display: none;">
-        {{.Inner | safeHTML}}
-    </div>
-</div>
+</span>
