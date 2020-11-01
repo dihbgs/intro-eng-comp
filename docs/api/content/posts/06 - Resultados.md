@@ -7,4 +7,4 @@ draft: false
 ---
 
 O vídeo da simulação foi disponibilizado no youtube no [seguinte link](https://youtu.be/Adet4dS2UuU)
-![Vídeo demonstrativo](https://youtu.be/Adet4dS2UuU)
+[![eita geovana](http://img.youtube.com/vi/Adet4dS2UuU/0.jpg)](http://www.youtube.com/watch?v=Adet4dS2UuU)
