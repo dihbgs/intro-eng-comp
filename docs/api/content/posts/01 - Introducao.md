@@ -1,7 +1,7 @@
 ---
 title: "01 - Introdução"
 description: "Descrição inicial do projeto"
-date: 2020-10-23T08:00:00+03:00
+date: 2020-10-31T08:00:00+03:00
 draft: false
 
 ---
