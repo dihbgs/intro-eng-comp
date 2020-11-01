@@ -5,9 +5,9 @@ description: "Código do projeto"
 draft: false
 ---
 
-{{%/*expand*/%}}
+{{< expand testandinho >}}
 abacate
-{{%/* /expand*/%}}
+{{< /expand >}}
 
 Código do projeto:
   
