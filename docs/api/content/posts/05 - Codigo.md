@@ -5,7 +5,7 @@ description: "Código do projeto"
 draft: false
 ---
 
-{{< expand "testando" >}} Abacatinho {{< /expand >}}
+{{%expand "Testando" %}} Abacatinho? {{% /expand%}}
 
 Código do projeto:
   
