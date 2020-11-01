@@ -5,3 +5,5 @@ description: "Imagem do hardware utilizado"
 draft: false
 
 ---
+
+![Esquema elétrico]()
