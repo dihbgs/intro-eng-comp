@@ -1,7 +1,7 @@
 ---
 title: "03 - Materiais"
 date: 2020-10-29T06:00:00+03:00
-description: "Lista de materiais utilizados"
+description: "Lista de materiais"
 draft: false
 
 ---
