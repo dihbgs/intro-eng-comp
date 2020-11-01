@@ -52,8 +52,8 @@ paginate = 7
     readOtherPosts  =  " Ler outras postagens "
     missingContentMessage  =  " Pagina nao encontrada "
     missingBackButtonLabel  =  " Voltar para a pagina inicial "
+    languageName = "Português"
     
-    #languageName = ""
     #owner = ""
     #keywords = ""
     #copyright = ""
