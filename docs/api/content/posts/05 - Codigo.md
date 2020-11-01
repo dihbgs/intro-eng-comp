@@ -5,6 +5,8 @@ description: "Código do projeto"
 draft: false
 ---
 
+{{< expand `teste` "v" "-" >}} Abacatinho {{< /expand >}}
+
 Código do projeto:
   
 ```Cpp
