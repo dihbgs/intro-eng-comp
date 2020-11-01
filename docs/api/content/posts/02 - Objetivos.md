@@ -18,6 +18,6 @@ O porquinho acopla um teclado e um display lcd. Onde são desempenhadas as segui
 	
 * Assim, através do teclado será inserida a opção desejada, seguida do valor que irá incluir ou retirar do cofrinho.
 	
-* Após o feito o display mostrará o total presente no objeto.
+* Após feito isso, o display mostrará o total presente no objeto.
 
 Ou seja, o objetivo deste projeto é realizar as funções citadas com exito.
