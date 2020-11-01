@@ -1,6 +1,6 @@
 ---
 title: "02 - Objetivo"
-description: "Espectativas finais"
+description: "Expectativas finais"
 date: 2020-10-30T07:00:00+03:00
 draft: false
 
