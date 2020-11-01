@@ -5,6 +5,7 @@ description: "Código do projeto"
 draft: false
 ---
 
+{{%expand "Is this learn theme rocks ?" %}}Yes !.{{% /expand%}}
 
 <details>
   <summary>Código do projeto:</summary>
