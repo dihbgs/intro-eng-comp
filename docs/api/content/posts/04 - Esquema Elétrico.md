@@ -6,8 +6,6 @@ draft: false
 
 ---
 
-Link do projeto no Tinkecard:
-
-[Clique aqui!](https://www.tinkercad.com/things/lSpde9uKies)
+[Link do projeto no Tinkecard](https://www.tinkercad.com/things/lSpde9uKies)
 
 ![Esquema elétrico](../../esquema.png)
