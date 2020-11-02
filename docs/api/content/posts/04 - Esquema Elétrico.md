@@ -10,4 +10,4 @@ Link do projeto no Tinkecard:
 
 [Clique aqui!](https://www.tinkercad.com/things/lSpde9uKies)
 
-![Esquema elétrico](../esquema_eletrico.jpg)
+![Esquema elétrico](../../esquema.png)
