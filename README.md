@@ -1,8 +1,11 @@
 # Introdução
 
+Este projeto foi realizado por alunos da Universidade Tecnológica Federal do Paraná (UTFPR)
+
+![Esquema do projeto](docs/api/content/esquema.png)
 ## Equipe
 
-O projeto foi desenvolvido pelos alunos de Engenharia de Computação:
+Alunos de Engenharia da Computação:
 
 |Nome| gitlab user|
 |---|---|
@@ -11,12 +14,11 @@ O projeto foi desenvolvido pelos alunos de Engenharia de Computação:
 
 # Documentação
 
-A documentação do projeto pode ser acessada pelo link:
-
->  https://dihbgs.gitlab.io/ie21cp20201
+A documentação do projeto pode ser encontrada [neste link](https://dihbgs.gitlab.io/ie21cp20201)
 
 # Links Úteis
 
-* [Kit de Desenvolvimento Arduino](https://www.arduino.cc/)
+* [Tinkercad](https://www.tinkercad.com/)
+* [Documentação do Arduino](https://www.arduino.cc/reference/en/)
 * [Sintax Markdown](https://docs.gitlab.com/ee/user/markdown.html)
 * [Hugo Website](https://gohugo.io/)
