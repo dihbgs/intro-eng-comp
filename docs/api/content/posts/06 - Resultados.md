@@ -6,5 +6,5 @@ draft: false
 
 ---
 
-O vídeo da simulação encontra-se disponível no [seguinte link](https://youtu.be/Adet4dS2UuU)
+O vídeo da simulação encontra-se disponível no [seguinte link](https://www.youtube.com/watch?v=A4sZ52Ch6P4&ab_channel=GABRIELADOPFERRICARDI)
 {{< youtube Adet4dS2UuU >}}
