@@ -2,7 +2,7 @@
 
 Este projeto foi realizado por alunos da Universidade Tecnológica Federal do Paraná (UTFPR)
 
-![Esquema do projeto](docs/api/content/esquema-whitebg.png)
+![Esquema do projeto](docs/api/content/esquema-lightbg.png)
 ## Equipe
 
 Alunos de Engenharia da Computação:
