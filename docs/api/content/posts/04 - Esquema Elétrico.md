@@ -8,4 +8,4 @@ draft: false
 
 [Link do projeto no Tinkecard](https://www.tinkercad.com/things/lSpde9uKies)
 
-![Esquema elétrico](../../esquema.png)
+![Esquema elétrico](../../esquema-bgtema.png)
