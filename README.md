@@ -7,9 +7,9 @@ Este projeto foi realizado por alunos da Universidade Tecnológica Federal do Pa
 
 Alunos de Engenharia da Computação:
 
-|Nome| gitlab user|
+|Nome| Perfil |
 |---|---|
-|Diogo Borges Rodrigues| [@dihbgs](https://gitlab.com/dihbgs)|
+|Diogo Borges Rodrigues| [@dihbgs](https://github.com/dihbgs)|
 |Gabriela Dopfer Ricardi| [@Gabi-Dopfer-R](https://gitlab.com/Gabi-Dopfer-R)|
 
 # Documentação
