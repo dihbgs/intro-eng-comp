@@ -16,10 +16,6 @@ Alunos de Engenharia da Computação:
 
 A documentação do projeto pode ser encontrada [neste link](https://dihbgs.gitlab.io/ie21cp20201)
 
-# Demonstração
-
-![Demonstração do projeto](docs/api/content/cofrinho-demo.mp4)
-
 # Links Úteis
 
 * [Tinkercad](https://www.tinkercad.com/)
